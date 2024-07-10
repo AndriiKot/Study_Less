@@ -1,0 +1,66 @@
+﻿1. My personal data
+    1. First name
+    2. Last name/surname/family name
+    3. Date of birth (birthday)
+    4. Gender (sex)
+    5. Nationality
+    6. Email address (e-mail)
+    7. Phone number
+    8. Address
+    9. City
+    10. Country
+    11. Postal code (Post code / Zip code)
+    12. Company
+    12. Password
+    13. Age
+    14. Security question 
+    15. at (@)
+    16. dot (.)
+    17. dash (-)
+    18. underscore (_)
+
+2 Question:
+    1. What is your name?
+    2. What is your surname (family name/ last name)?
+    3. How do you spell your surname?
+    4. What is your marital status?
+    5. Where are you from?
+    6. What is your telephone number / phone number? ( mobile phone number / landline)
+    7. When is your birthday?
+    8. What is your Email? ( e-mail )
+    9. It`s paul99@webmail.com
+
+
+2 Answer:
+    1. My name is Andrii
+    2. My surname is Kotsiuba.
+    3. K-t-s-i-u-b-a.
+    4. I am married ( married/ single / divorced )
+    5. I am from Ukraine.
+    6. My phone number is +380 ( 50 ) 123 .. ..
+    7. My birthday is on the October.
+       It is on the 23rd of October, 19-89.
+    8. My Email is andrii_kotsiuba@gmail.com (andrii underscore kotsiuba at gmail dot com)
+    9. It`s paul double nine at webmail dot com
+
+
+Мои личные данные
+    1. Имя
+    2. Фамилия
+    3. Дата рождения (день рождения)
+    4. Пол 
+    5. Национальность
+    6. Адрес электронной почты
+    7. Номер телефона (мобильный телефон / стационарный телефон)
+    8. Адрес
+    9. Город
+    10. Страна
+    11. Почтовый индекс
+    12. Компания
+    12. Пароль
+    13. Возраст
+    14. Секретный вопрос
+
+
+
+

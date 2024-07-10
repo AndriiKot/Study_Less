@@ -1,0 +1,43 @@
+﻿1. My personal data
+    1. First name
+    2. Last name/surname/family name
+    3. Date of birth (birthday)
+    4. Gender (sex)
+    5. Nationality
+    6. Email address (e-mail)
+    7. Phone number
+    8. Address
+    9. City
+    10. Country
+    11. Postal code (Post code / Zip code)
+    12. Company
+    12. Password
+    13. Age
+    14. Security question 
+    15. at (@)
+    16. dot (.)
+    17. dash (-)
+    18. underscore (_)
+
+
+
+Мои личные данные
+    1. Имя
+    2. Фамилия
+    3. Дата рождения (день рождения)
+    4. Пол 
+    5. Национальность
+    6. Адрес электронной почты
+    7. Номер телефона (мобильный телефон / стационарный телефон)
+    8. Адрес
+    9. Город
+    10. Страна
+    11. Почтовый индекс
+    12. Компания
+    12. Пароль
+    13. Возраст
+    14. Секретный вопрос
+
+
+
+

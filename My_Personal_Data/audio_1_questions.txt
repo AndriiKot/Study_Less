@@ -1,0 +1,19 @@
+﻿Questions:
+    1. What`s your ... ? (Last name)
+    2. How do you ... Whatling?
+    3. What`s your ...  name ?
+    4. What`s your ... ?
+    5. What`s your ... code ?
+    6. What`s your ... number ?
+    7. What`s your ... address ?
+
+
+Answers:
+    1. What`s your surname ? (Last name)
+    2. How do you spell Whatling?
+    3. What`s your First name ?
+    4. What`s your nationality ?
+    5. What`s your post code ?
+    6. What`s your mobile number ?
+    7. What`s your post address ?
+
